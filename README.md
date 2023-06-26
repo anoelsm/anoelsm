@@ -4,7 +4,7 @@ I am advised by Dr. Andrew Barton on my work utilizing numerical modeling and da
 Broadly, I am interested in phytoplankton diversity and biogeography with a focus on utilizing theoretical modeling and advanced data analysis tools. 
 I work mainly in R but I'm also proficient in MatLab and Python, and enjoy learning new platforms for analysis and visualization. 
 
-I can be reached at ans132@ucsd.edu. For more info check out my website: alainanoel-smith.com
+I can be reached at ans132@ucsd.edu.
 
 <!---
 anoelsm/anoelsm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
